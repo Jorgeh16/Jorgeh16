@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Jorge 👋
 
-<!--
-**Jorgeh16/Jorgeh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou aprendendo programação e construindo meus primeiros projetos na prática.
 
-Here are some ideas to get you started:
+## 📚 Estudando
+- HTML5 e CSS3 (Flexbox, Grid, acessibilidade)
+- JavaScript e JSON
+- Python
+- Java (começando agora)
+- Banco de dados relacional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+- [Planejamento financeiro com NotebookLM](https://github.com/Jorgeh16/planejamento-financeiro-notebooklm): guia para iniciantes com materiais do BCB, CVM e Sebrae
+- [Cafe Menu](https://github.com/Jorgeh16/freecodecamp-cafe-menu): layout responsivo, mobile-first
+- [Formulário de pesquisa](https://github.com/Jorgeh16/freecodecamp-formul-rio-de-pesquisa): HTML semântico e inputs acessíveis
+
+## 🎯 Objetivo
+Evoluir do front-end para projetos com JavaScript e Python.
+
+## 📫 Contato
+Abra uma issue ou me siga aqui no GitHub.
